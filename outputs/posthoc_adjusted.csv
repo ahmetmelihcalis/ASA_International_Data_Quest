@@ -1,0 +1,7 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+High income,Low income,-27.1781,0.0,-33.817,-20.5393,True
+High income,Lower middle income,-15.8106,0.0,-20.9712,-10.6501,True
+High income,Upper middle income,-3.0047,0.4073,-8.0128,2.0033,False
+Low income,Lower middle income,11.3675,0.0003,4.2307,18.5043,True
+Low income,Upper middle income,24.1734,0.0,17.1461,31.2007,True
+Lower middle income,Upper middle income,12.8059,0.0,7.1544,18.4575,True

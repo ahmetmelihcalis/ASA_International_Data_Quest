@@ -1,0 +1,235 @@
+Country Code,Country Name,Income Group,Region,Base Score,Luxury Access Score,Multiplier,Multiplier Source,Coverage (%),Data Filled (%),Indicator Count,Scoring Type
+AFE,Africa Eastern and Southern,,,53.756,53.756,1.0,income_group_multiplier,100.0,33.9,300,neutral
+AFW,Africa Western and Central,,,53.133,53.133,1.0,income_group_multiplier,100.0,33.0,300,neutral
+CSS,Caribbean small states,,,51.4,51.4,1.0,income_group_multiplier,100.0,30.6,300,neutral
+CEB,Central Europe and the Baltics,,,53.489,53.489,1.0,income_group_multiplier,100.0,33.6,300,neutral
+EAR,Early-demographic dividend,,,53.633,53.633,1.0,income_group_multiplier,100.0,33.8,300,neutral
+EAS,East Asia & Pacific,,,54.767,54.767,1.0,income_group_multiplier,100.0,35.4,300,neutral
+ECS,Europe & Central Asia,,,54.656,54.656,1.0,income_group_multiplier,100.0,35.2,300,neutral
+EUU,European Union,,,54.578,54.578,1.0,income_group_multiplier,100.0,35.1,300,neutral
+HPC,Heavily indebted poor countries (HIPC),,,52.389,52.389,1.0,income_group_multiplier,100.0,32.0,300,neutral
+LTE,Late-demographic dividend,,,53.789,53.789,1.0,income_group_multiplier,100.0,34.0,300,neutral
+LCN,Latin America & Caribbean,,,55.2,55.2,1.0,income_group_multiplier,100.0,36.0,300,neutral
+LDC,Least developed countries: UN classification,,,52.433,52.433,1.0,income_group_multiplier,100.0,32.0,300,neutral
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",,,53.589,53.589,1.0,income_group_multiplier,100.0,33.7,300,neutral
+NAC,North America,,,55.056,55.056,1.0,income_group_multiplier,100.0,35.8,300,neutral
+INX,INX,Unknown,Unknown,30.0,30.0,1.0,income_group_multiplier,100.0,0.0,300,neutral
+OSS,Other small states,,,51.611,51.611,1.0,income_group_multiplier,100.0,30.9,300,neutral
+PSS,Pacific island small states,,,49.222,49.222,1.0,income_group_multiplier,100.0,27.5,300,neutral
+PST,Post-demographic dividend,,,53.589,53.589,1.0,income_group_multiplier,100.0,33.7,300,neutral
+PRE,Pre-demographic dividend,,,51.922,51.922,1.0,income_group_multiplier,100.0,31.3,300,neutral
+SST,Small states,,,52.033,52.033,1.0,income_group_multiplier,100.0,31.5,300,neutral
+SAS,South Asia,,,55.833,55.833,1.0,income_group_multiplier,100.0,36.9,300,neutral
+SSF,Sub-Saharan Africa,,,54.578,54.578,1.0,income_group_multiplier,100.0,35.1,300,neutral
+AFG,Afghanistan,Low income,"Middle East, North Africa, Afghanistan & Pakistan",59.044,59.044,1.0,income_group_multiplier,100.0,41.5,300,neutral
+ALB,Albania,Upper middle income,Europe & Central Asia,68.289,68.289,1.0,income_group_multiplier,100.0,54.7,300,neutral
+DZA,Algeria,Upper middle income,"Middle East, North Africa, Afghanistan & Pakistan",66.089,66.089,1.0,income_group_multiplier,100.0,51.6,300,neutral
+ASM,American Samoa,High income,East Asia & Pacific,38.122,38.122,1.0,income_group_multiplier,100.0,11.6,300,neutral
+AND,Andorra,High income,Europe & Central Asia,44.467,44.467,1.0,income_group_multiplier,100.0,20.7,300,neutral
+AGO,Angola,Lower middle income,Sub-Saharan Africa,65.033,65.033,1.0,income_group_multiplier,100.0,50.0,300,neutral
+ATG,Antigua and Barbuda,High income,Latin America & Caribbean,56.456,56.456,1.0,income_group_multiplier,100.0,37.8,300,neutral
+ARG,Argentina,Upper middle income,Latin America & Caribbean,68.467,68.467,1.0,income_group_multiplier,100.0,55.0,300,neutral
+ARM,Armenia,Upper middle income,Europe & Central Asia,68.456,68.456,1.0,income_group_multiplier,100.0,54.9,300,neutral
+ABW,Aruba,High income,Latin America & Caribbean,49.333,49.333,1.0,income_group_multiplier,100.0,27.6,300,neutral
+AUS,Australia,High income,East Asia & Pacific,68.933,68.933,1.0,income_group_multiplier,100.0,55.6,300,neutral
+AUT,Austria,High income,Europe & Central Asia,66.778,66.778,1.0,income_group_multiplier,100.0,52.5,300,neutral
+AZE,Azerbaijan,Upper middle income,Europe & Central Asia,68.311,68.311,1.0,income_group_multiplier,100.0,54.7,300,neutral
+BHS,"Bahamas, The",High income,Latin America & Caribbean,62.156,62.156,1.0,income_group_multiplier,100.0,45.9,300,neutral
+BHR,Bahrain,High income,"Middle East, North Africa, Afghanistan & Pakistan",63.133,63.133,1.0,income_group_multiplier,100.0,47.3,300,neutral
+BGD,Bangladesh,Lower middle income,South Asia,68.444,68.444,1.0,income_group_multiplier,100.0,54.9,300,neutral
+BRB,Barbados,High income,Latin America & Caribbean,62.467,62.467,1.0,income_group_multiplier,100.0,46.4,300,neutral
+BLR,Belarus,Upper middle income,Europe & Central Asia,68.567,68.567,1.0,income_group_multiplier,100.0,55.1,300,neutral
+BEL,Belgium,High income,Europe & Central Asia,66.911,66.911,1.0,income_group_multiplier,100.0,52.7,300,neutral
+BLZ,Belize,Upper middle income,Latin America & Caribbean,65.889,65.889,1.0,income_group_multiplier,100.0,51.3,300,neutral
+BEN,Benin,Lower middle income,Sub-Saharan Africa,65.233,65.233,1.0,income_group_multiplier,100.0,50.3,300,neutral
+BMU,Bermuda,High income,North America,45.067,45.067,1.0,income_group_multiplier,100.0,21.5,300,neutral
+BTN,Bhutan,Lower middle income,South Asia,62.4,62.4,1.0,income_group_multiplier,100.0,46.3,300,neutral
+BOL,"Bolivia, Plurinational State of",Lower middle income,Latin America & Caribbean,70.322,70.322,1.0,income_group_multiplier,100.0,57.6,300,neutral
+BIH,Bosnia and Herzegovina,Upper middle income,Europe & Central Asia,64.344,64.344,1.0,income_group_multiplier,100.0,49.1,300,neutral
+BWA,Botswana,Upper middle income,Sub-Saharan Africa,67.033,67.033,1.0,income_group_multiplier,100.0,52.9,300,neutral
+BRA,Brazil,Upper middle income,Latin America & Caribbean,71.8,71.8,1.0,income_group_multiplier,100.0,59.7,300,neutral
+VGB,British Virgin Islands,High income,Latin America & Caribbean,37.589,37.589,1.0,income_group_multiplier,100.0,10.8,300,neutral
+BRN,Brunei Darussalam,High income,East Asia & Pacific,63.367,63.367,1.0,income_group_multiplier,100.0,47.7,300,neutral
+BGR,Bulgaria,High income,Europe & Central Asia,68.622,68.622,1.0,income_group_multiplier,100.0,55.2,300,neutral
+BFA,Burkina Faso,Low income,Sub-Saharan Africa,67.344,67.344,1.0,income_group_multiplier,100.0,53.3,300,neutral
+BDI,Burundi,Low income,Sub-Saharan Africa,64.7,64.7,1.0,income_group_multiplier,100.0,49.6,300,neutral
+CPV,Cabo Verde,Upper middle income,Sub-Saharan Africa,64.156,64.156,1.0,income_group_multiplier,100.0,48.8,300,neutral
+KHM,Cambodia,Lower middle income,East Asia & Pacific,67.778,67.778,1.0,income_group_multiplier,100.0,54.0,300,neutral
+CMR,Cameroon,Lower middle income,Sub-Saharan Africa,66.311,66.311,1.0,income_group_multiplier,100.0,51.9,300,neutral
+CAN,Canada,High income,North America,66.589,66.589,1.0,income_group_multiplier,100.0,52.3,300,neutral
+CYM,Cayman Islands,High income,Latin America & Caribbean,44.711,44.711,1.0,income_group_multiplier,100.0,21.0,300,neutral
+CAF,Central African Republic,Low income,Sub-Saharan Africa,59.9,59.9,1.0,income_group_multiplier,100.0,42.7,300,neutral
+TCD,Chad,Low income,Sub-Saharan Africa,60.833,60.833,1.0,income_group_multiplier,100.0,44.0,300,neutral
+CHI,Channel Islands,High income,Europe & Central Asia,36.389,36.389,1.0,income_group_multiplier,100.0,9.1,300,neutral
+CHL,Chile,High income,Latin America & Caribbean,70.267,70.267,1.0,income_group_multiplier,100.0,57.5,300,neutral
+CHN,China,Upper middle income,East Asia & Pacific,65.511,65.511,1.0,income_group_multiplier,100.0,50.7,300,neutral
+COL,Colombia,Upper middle income,Latin America & Caribbean,72.944,72.944,1.0,income_group_multiplier,100.0,61.3,300,neutral
+COM,Comoros,Lower middle income,Sub-Saharan Africa,60.411,60.411,1.0,income_group_multiplier,100.0,43.4,300,neutral
+COD,"Congo, Democratic Republic of",Low income,Sub-Saharan Africa,63.478,63.478,1.0,income_group_multiplier,100.0,47.8,300,neutral
+COG,"Congo, Republic of",Lower middle income,Sub-Saharan Africa,64.511,64.511,1.0,income_group_multiplier,100.0,49.3,300,neutral
+CRI,Costa Rica,High income,Latin America & Caribbean,70.211,70.211,1.0,income_group_multiplier,100.0,57.4,300,neutral
+CIV,Côte d'Ivoire,Lower middle income,Sub-Saharan Africa,66.544,66.544,1.0,income_group_multiplier,100.0,52.2,300,neutral
+HRV,Croatia,High income,Europe & Central Asia,66.589,66.589,1.0,income_group_multiplier,100.0,52.3,300,neutral
+CUB,Cuba,Upper middle income,Latin America & Caribbean,60.222,60.222,1.0,income_group_multiplier,100.0,43.2,300,neutral
+CUW,Curaçao,High income,Latin America & Caribbean,37.678,37.678,1.0,income_group_multiplier,100.0,11.0,300,neutral
+CYP,Cyprus,High income,Europe & Central Asia,65.744,65.744,1.0,income_group_multiplier,100.0,51.1,300,neutral
+CZE,Czechia,High income,Europe & Central Asia,68.356,68.356,1.0,income_group_multiplier,100.0,54.8,300,neutral
+DNK,Denmark,High income,Europe & Central Asia,68.244,68.244,1.0,income_group_multiplier,100.0,54.6,300,neutral
+DJI,Djibouti,Lower middle income,"Middle East, North Africa, Afghanistan & Pakistan",57.389,57.389,1.0,income_group_multiplier,100.0,39.1,300,neutral
+DMA,Dominica,Upper middle income,Latin America & Caribbean,56.644,56.644,1.0,income_group_multiplier,100.0,38.1,300,neutral
+DOM,Dominican Republic,Upper middle income,Latin America & Caribbean,70.544,70.544,1.0,income_group_multiplier,100.0,57.9,300,neutral
+ECU,Ecuador,Upper middle income,Latin America & Caribbean,71.556,71.556,1.0,income_group_multiplier,100.0,59.4,300,neutral
+SLV,El Salvador,Upper middle income,Latin America & Caribbean,70.922,70.922,1.0,income_group_multiplier,100.0,58.5,300,neutral
+GNQ,Equatorial Guinea,Upper middle income,Sub-Saharan Africa,57.589,57.589,1.0,income_group_multiplier,100.0,39.4,300,neutral
+ERI,Eritrea,Low income,Sub-Saharan Africa,54.356,54.356,1.0,income_group_multiplier,100.0,34.8,300,neutral
+EST,Estonia,High income,Europe & Central Asia,66.033,66.033,1.0,income_group_multiplier,100.0,51.5,300,neutral
+SWZ,Eswatini,Lower middle income,Sub-Saharan Africa,65.567,65.567,1.0,income_group_multiplier,100.0,50.8,300,neutral
+ETH,Ethiopia,,Sub-Saharan Africa,65.111,65.111,1.0,income_group_multiplier,100.0,50.2,300,neutral
+FRO,Faroe Islands,High income,Europe & Central Asia,38.911,38.911,1.0,income_group_multiplier,100.0,12.7,300,neutral
+FJI,Fiji,Upper middle income,East Asia & Pacific,64.9,64.9,1.0,income_group_multiplier,100.0,49.9,300,neutral
+FIN,Finland,High income,Europe & Central Asia,65.867,65.867,1.0,income_group_multiplier,100.0,51.2,300,neutral
+FRA,France,High income,Europe & Central Asia,67.589,67.589,1.0,income_group_multiplier,100.0,53.7,300,neutral
+PYF,French Polynesia,High income,East Asia & Pacific,43.267,43.267,1.0,income_group_multiplier,100.0,19.0,300,neutral
+GAB,Gabon,Upper middle income,Sub-Saharan Africa,62.3,62.3,1.0,income_group_multiplier,100.0,46.1,300,neutral
+GMB,"Gambia, The",Low income,Sub-Saharan Africa,65.056,65.056,1.0,income_group_multiplier,100.0,50.1,300,neutral
+GEO,Georgia,Upper middle income,Europe & Central Asia,68.522,68.522,1.0,income_group_multiplier,100.0,55.0,300,neutral
+DEU,Germany,High income,Europe & Central Asia,66.789,66.789,1.0,income_group_multiplier,100.0,52.6,300,neutral
+GHA,Ghana,Lower middle income,Sub-Saharan Africa,67.956,67.956,1.0,income_group_multiplier,100.0,54.2,300,neutral
+GIB,Gibraltar,High income,Europe & Central Asia,35.378,35.378,1.0,income_group_multiplier,100.0,7.7,300,neutral
+GRC,Greece,High income,Europe & Central Asia,66.589,66.589,1.0,income_group_multiplier,100.0,52.3,300,neutral
+GRL,Greenland,High income,Europe & Central Asia,42.111,42.111,1.0,income_group_multiplier,100.0,17.3,300,neutral
+GRD,Grenada,Upper middle income,Latin America & Caribbean,55.333,55.333,1.0,income_group_multiplier,100.0,36.2,300,neutral
+GUM,Guam,High income,East Asia & Pacific,40.956,40.956,1.0,income_group_multiplier,100.0,15.7,300,neutral
+GTM,Guatemala,Upper middle income,Latin America & Caribbean,70.011,70.011,1.0,income_group_multiplier,100.0,57.2,300,neutral
+GIN,Guinea,Lower middle income,Sub-Saharan Africa,64.244,64.244,1.0,income_group_multiplier,100.0,48.9,300,neutral
+GNB,Guinea-Bissau,Low income,Sub-Saharan Africa,61.733,61.733,1.0,income_group_multiplier,100.0,45.3,300,neutral
+GUY,Guyana,High income,Latin America & Caribbean,62.756,62.756,1.0,income_group_multiplier,100.0,46.8,300,neutral
+HTI,Haiti,Lower middle income,Latin America & Caribbean,61.544,61.544,1.0,income_group_multiplier,100.0,45.1,300,neutral
+HND,Honduras,Lower middle income,Latin America & Caribbean,69.511,69.511,1.0,income_group_multiplier,100.0,56.4,300,neutral
+HKG,"Hong Kong SAR, China",High income,East Asia & Pacific,60.3,60.3,1.0,income_group_multiplier,100.0,43.3,300,neutral
+HUN,Hungary,High income,Europe & Central Asia,68.567,68.567,1.0,income_group_multiplier,100.0,55.1,300,neutral
+ISL,Iceland,High income,Europe & Central Asia,66.522,66.522,1.0,income_group_multiplier,100.0,52.2,300,neutral
+IND,India,Lower middle income,South Asia,68.656,68.656,1.0,income_group_multiplier,100.0,55.2,300,neutral
+IDN,Indonesia,Upper middle income,East Asia & Pacific,70.889,70.889,1.0,income_group_multiplier,100.0,58.4,300,neutral
+IRN,"Iran, Islamic Republic of",Upper middle income,"Middle East, North Africa, Afghanistan & Pakistan",61.344,61.344,1.0,income_group_multiplier,100.0,44.8,300,neutral
+IRQ,Iraq,Upper middle income,"Middle East, North Africa, Afghanistan & Pakistan",61.278,61.278,1.0,income_group_multiplier,100.0,44.7,300,neutral
+IRL,Ireland,High income,Europe & Central Asia,64.344,64.344,1.0,income_group_multiplier,100.0,49.1,300,neutral
+IMN,Isle of Man,High income,Europe & Central Asia,34.322,34.322,1.0,income_group_multiplier,100.0,6.2,300,neutral
+ISR,Israel,High income,"Middle East, North Africa, Afghanistan & Pakistan",67.656,67.656,1.0,income_group_multiplier,100.0,53.8,300,neutral
+ITA,Italy,High income,Europe & Central Asia,66.656,66.656,1.0,income_group_multiplier,100.0,52.4,300,neutral
+JAM,Jamaica,Upper middle income,Latin America & Caribbean,68.267,68.267,1.0,income_group_multiplier,100.0,54.7,300,neutral
+JPN,Japan,High income,East Asia & Pacific,67.111,67.111,1.0,income_group_multiplier,100.0,53.0,300,neutral
+JOR,Jordan,Lower middle income,"Middle East, North Africa, Afghanistan & Pakistan",69.189,69.189,1.0,income_group_multiplier,100.0,56.0,300,neutral
+KAZ,Kazakhstan,Upper middle income,Europe & Central Asia,67.6,67.6,1.0,income_group_multiplier,100.0,53.7,300,neutral
+KEN,Kenya,Lower middle income,Sub-Saharan Africa,68.711,68.711,1.0,income_group_multiplier,100.0,55.3,300,neutral
+KIR,Kiribati,Lower middle income,East Asia & Pacific,49.5,49.5,1.0,income_group_multiplier,100.0,27.9,300,neutral
+PRK,"Korea, Democratic People’s Republic of",Low income,East Asia & Pacific,47.9,47.9,1.0,income_group_multiplier,100.0,25.6,300,neutral
+KOR,Korea,High income,East Asia & Pacific,68.378,68.378,1.0,income_group_multiplier,100.0,54.8,300,neutral
+XKX,Kosovo,Upper middle income,Europe & Central Asia,44.289,44.289,1.0,income_group_multiplier,100.0,20.4,300,neutral
+KWT,Kuwait,High income,"Middle East, North Africa, Afghanistan & Pakistan",63.344,63.344,1.0,income_group_multiplier,100.0,47.6,300,neutral
+KGZ,Kyrgyz Republic,Lower middle income,Europe & Central Asia,69.844,69.844,1.0,income_group_multiplier,100.0,56.9,300,neutral
+LAO,Lao PDR,Lower middle income,East Asia & Pacific,64.4,64.4,1.0,income_group_multiplier,100.0,49.1,300,neutral
+LVA,Latvia,High income,Europe & Central Asia,65.744,65.744,1.0,income_group_multiplier,100.0,51.1,300,neutral
+LBN,Lebanon,Lower middle income,"Middle East, North Africa, Afghanistan & Pakistan",62.011,62.011,1.0,income_group_multiplier,100.0,45.7,300,neutral
+LSO,Lesotho,Lower middle income,Sub-Saharan Africa,65.811,65.811,1.0,income_group_multiplier,100.0,51.2,300,neutral
+LBR,Liberia,Low income,Sub-Saharan Africa,59.5,59.5,1.0,income_group_multiplier,100.0,42.1,300,neutral
+LBY,Libya,Upper middle income,"Middle East, North Africa, Afghanistan & Pakistan",57.467,57.467,1.0,income_group_multiplier,100.0,39.2,300,neutral
+LIE,Liechtenstein,High income,Europe & Central Asia,42.422,42.422,1.0,income_group_multiplier,100.0,17.7,300,neutral
+LTU,Lithuania,High income,Europe & Central Asia,66.244,66.244,1.0,income_group_multiplier,100.0,51.8,300,neutral
+LUX,Luxembourg,High income,Europe & Central Asia,63.278,63.278,1.0,income_group_multiplier,100.0,47.5,300,neutral
+MAC,"Macao SAR, China",High income,East Asia & Pacific,56.478,56.478,1.0,income_group_multiplier,100.0,37.8,300,neutral
+MDG,Madagascar,Low income,Sub-Saharan Africa,68.111,68.111,1.0,income_group_multiplier,100.0,54.4,300,neutral
+MWI,Malawi,Low income,Sub-Saharan Africa,64.5,64.5,1.0,income_group_multiplier,100.0,49.3,300,neutral
+MYS,Malaysia,Upper middle income,East Asia & Pacific,70.589,70.589,1.0,income_group_multiplier,100.0,58.0,300,neutral
+MDV,Maldives,Upper middle income,South Asia,62.444,62.444,1.0,income_group_multiplier,100.0,46.3,300,neutral
+MLI,Mali,Low income,Sub-Saharan Africa,65.911,65.911,1.0,income_group_multiplier,100.0,51.3,300,neutral
+MLT,Malta,High income,"Middle East, North Africa, Afghanistan & Pakistan",63.833,63.833,1.0,income_group_multiplier,100.0,48.3,300,neutral
+MHL,Marshall Islands,Upper middle income,East Asia & Pacific,46.467,46.467,1.0,income_group_multiplier,100.0,23.5,300,neutral
+MRT,Mauritania,Lower middle income,Sub-Saharan Africa,62.389,62.389,1.0,income_group_multiplier,100.0,46.3,300,neutral
+MUS,Mauritius,Upper middle income,Sub-Saharan Africa,67.333,67.333,1.0,income_group_multiplier,100.0,53.3,300,neutral
+MEX,Mexico,Upper middle income,Latin America & Caribbean,71.4,71.4,1.0,income_group_multiplier,100.0,59.1,300,neutral
+FSM,"Micronesia, Federated States of",Lower middle income,East Asia & Pacific,49.011,49.011,1.0,income_group_multiplier,100.0,27.2,300,neutral
+MDA,Moldova,Upper middle income,Europe & Central Asia,68.711,68.711,1.0,income_group_multiplier,100.0,55.3,300,neutral
+MCO,Monaco,High income,Europe & Central Asia,40.689,40.689,1.0,income_group_multiplier,100.0,15.3,300,neutral
+MNG,Mongolia,Upper middle income,East Asia & Pacific,67.667,67.667,1.0,income_group_multiplier,100.0,53.8,300,neutral
+MNE,Montenegro,Upper middle income,Europe & Central Asia,59.3,59.3,1.0,income_group_multiplier,100.0,41.9,300,neutral
+MAR,Morocco,Lower middle income,"Middle East, North Africa, Afghanistan & Pakistan",68.844,68.844,1.0,income_group_multiplier,100.0,55.5,300,neutral
+MOZ,Mozambique,Low income,Sub-Saharan Africa,66.867,66.867,1.0,income_group_multiplier,100.0,52.7,300,neutral
+MMR,Myanmar,Lower middle income,East Asia & Pacific,63.644,63.644,1.0,income_group_multiplier,100.0,48.1,300,neutral
+NAM,Namibia,Lower middle income,Sub-Saharan Africa,66.922,66.922,1.0,income_group_multiplier,100.0,52.7,300,neutral
+NRU,Nauru,High income,East Asia & Pacific,41.478,41.478,1.0,income_group_multiplier,100.0,16.4,300,neutral
+NPL,Nepal,Lower middle income,South Asia,66.178,66.178,1.0,income_group_multiplier,100.0,51.7,300,neutral
+NLD,Netherlands,High income,Europe & Central Asia,65.311,65.311,1.0,income_group_multiplier,100.0,50.4,300,neutral
+NCL,New Caledonia,High income,East Asia & Pacific,43.078,43.078,1.0,income_group_multiplier,100.0,18.7,300,neutral
+NZL,New Zealand,High income,East Asia & Pacific,67.278,67.278,1.0,income_group_multiplier,100.0,53.3,300,neutral
+NIC,Nicaragua,Lower middle income,Latin America & Caribbean,66.511,66.511,1.0,income_group_multiplier,100.0,52.2,300,neutral
+NER,Niger,Low income,Sub-Saharan Africa,66.067,66.067,1.0,income_group_multiplier,100.0,51.5,300,neutral
+NGA,Nigeria,Lower middle income,Sub-Saharan Africa,65.111,65.111,1.0,income_group_multiplier,100.0,50.2,300,neutral
+MKD,North Macedonia,Upper middle income,Europe & Central Asia,67.756,67.756,1.0,income_group_multiplier,100.0,53.9,300,neutral
+MNP,Northern Mariana Islands,High income,East Asia & Pacific,35.0,35.0,1.0,income_group_multiplier,100.0,7.1,300,neutral
+NOR,Norway,High income,Europe & Central Asia,66.844,66.844,1.0,income_group_multiplier,100.0,52.6,300,neutral
+OMN,Oman,High income,"Middle East, North Africa, Afghanistan & Pakistan",63.367,63.367,1.0,income_group_multiplier,100.0,47.7,300,neutral
+PAK,Pakistan,Lower middle income,"Middle East, North Africa, Afghanistan & Pakistan",68.178,68.178,1.0,income_group_multiplier,100.0,54.5,300,neutral
+PLW,Palau,High income,East Asia & Pacific,47.6,47.6,1.0,income_group_multiplier,100.0,25.1,300,neutral
+PAN,Panama,High income,Latin America & Caribbean,67.956,67.956,1.0,income_group_multiplier,100.0,54.2,300,neutral
+PNG,Papua New Guinea,Lower middle income,East Asia & Pacific,61.511,61.511,1.0,income_group_multiplier,100.0,45.0,300,neutral
+PRY,Paraguay,Upper middle income,Latin America & Caribbean,69.1,69.1,1.0,income_group_multiplier,100.0,55.9,300,neutral
+PER,Peru,Upper middle income,Latin America & Caribbean,71.3,71.3,1.0,income_group_multiplier,100.0,59.0,300,neutral
+PHL,Philippines,Lower middle income,East Asia & Pacific,70.533,70.533,1.0,income_group_multiplier,100.0,57.9,300,neutral
+POL,Poland,High income,Europe & Central Asia,69.889,69.889,1.0,income_group_multiplier,100.0,57.0,300,neutral
+PRT,Portugal,High income,Europe & Central Asia,66.422,66.422,1.0,income_group_multiplier,100.0,52.0,300,neutral
+PRI,Puerto Rico (US),High income,Latin America & Caribbean,49.333,49.333,1.0,income_group_multiplier,100.0,27.6,300,neutral
+QAT,Qatar,High income,"Middle East, North Africa, Afghanistan & Pakistan",63.122,63.122,1.0,income_group_multiplier,100.0,47.3,300,neutral
+ROU,Romania,High income,Europe & Central Asia,70.044,70.044,1.0,income_group_multiplier,100.0,57.2,300,neutral
+RUS,Russian Federation,High income,Europe & Central Asia,67.678,67.678,1.0,income_group_multiplier,100.0,53.8,300,neutral
+RWA,Rwanda,Low income,Sub-Saharan Africa,66.378,66.378,1.0,income_group_multiplier,100.0,52.0,300,neutral
+WSM,Samoa,Upper middle income,East Asia & Pacific,59.744,59.744,1.0,income_group_multiplier,100.0,42.5,300,neutral
+SMR,San Marino,High income,Europe & Central Asia,42.989,42.989,1.0,income_group_multiplier,100.0,18.6,300,neutral
+STP,São Tomé and Principe,Lower middle income,Sub-Saharan Africa,59.711,59.711,1.0,income_group_multiplier,100.0,42.4,300,neutral
+SEN,Senegal,Lower middle income,Sub-Saharan Africa,67.967,67.967,1.0,income_group_multiplier,100.0,54.2,300,neutral
+SRB,Serbia,Upper middle income,Europe & Central Asia,62.878,62.878,1.0,income_group_multiplier,100.0,47.0,300,neutral
+SYC,Seychelles,High income,Sub-Saharan Africa,56.867,56.867,1.0,income_group_multiplier,100.0,38.4,300,neutral
+SLE,Sierra Leone,Low income,Sub-Saharan Africa,62.189,62.189,1.0,income_group_multiplier,100.0,46.0,300,neutral
+SGP,Singapore,High income,East Asia & Pacific,65.889,65.889,1.0,income_group_multiplier,100.0,51.3,300,neutral
+SXM,Sint Maarten (Dutch part),High income,Latin America & Caribbean,34.6,34.6,1.0,income_group_multiplier,100.0,6.6,300,neutral
+SVK,Slovak Republic,High income,Europe & Central Asia,67.233,67.233,1.0,income_group_multiplier,100.0,53.2,300,neutral
+SVN,Slovenia,High income,Europe & Central Asia,66.0,66.0,1.0,income_group_multiplier,100.0,51.4,300,neutral
+SLB,Solomon Islands,Lower middle income,East Asia & Pacific,59.989,59.989,1.0,income_group_multiplier,100.0,42.8,300,neutral
+SOM,Somalia,Low income,Sub-Saharan Africa,49.656,49.656,1.0,income_group_multiplier,100.0,28.1,300,neutral
+ZAF,South Africa,Upper middle income,Sub-Saharan Africa,69.8,69.8,1.0,income_group_multiplier,100.0,56.9,300,neutral
+SSD,South Sudan,Low income,Sub-Saharan Africa,48.9,48.9,1.0,income_group_multiplier,100.0,27.0,300,neutral
+ESP,Spain,High income,Europe & Central Asia,66.522,66.522,1.0,income_group_multiplier,100.0,52.2,300,neutral
+LKA,Sri Lanka,Lower middle income,South Asia,67.289,67.289,1.0,income_group_multiplier,100.0,53.3,300,neutral
+KNA,St. Kitts and Nevis,High income,Latin America & Caribbean,54.833,54.833,1.0,income_group_multiplier,100.0,35.5,300,neutral
+LCA,St. Lucia,Upper middle income,Latin America & Caribbean,59.878,59.878,1.0,income_group_multiplier,100.0,42.7,300,neutral
+MAF,St. Martin (French part),High income,Latin America & Caribbean,32.222,32.222,1.0,income_group_multiplier,100.0,3.2,300,neutral
+VCT,St. Vincent and the Grenadines,Upper middle income,Latin America & Caribbean,59.6,59.6,1.0,income_group_multiplier,100.0,42.3,300,neutral
+SDN,Sudan,Low income,Sub-Saharan Africa,62.122,62.122,1.0,income_group_multiplier,100.0,45.9,300,neutral
+SUR,Suriname,Upper middle income,Latin America & Caribbean,63.333,63.333,1.0,income_group_multiplier,100.0,47.6,300,neutral
+SWE,Sweden,High income,Europe & Central Asia,67.244,67.244,1.0,income_group_multiplier,100.0,53.2,300,neutral
+CHE,Switzerland,High income,Europe & Central Asia,66.678,66.678,1.0,income_group_multiplier,100.0,52.4,300,neutral
+TJK,Tajikistan,Lower middle income,Europe & Central Asia,65.033,65.033,1.0,income_group_multiplier,100.0,50.0,300,neutral
+TZA,Tanzania,Lower middle income,Sub-Saharan Africa,68.578,68.578,1.0,income_group_multiplier,100.0,55.1,300,neutral
+THA,Thailand,Upper middle income,East Asia & Pacific,70.344,70.344,1.0,income_group_multiplier,100.0,57.6,300,neutral
+TLS,Timor-Leste,Lower middle income,East Asia & Pacific,60.4,60.4,1.0,income_group_multiplier,100.0,43.4,300,neutral
+TGO,Togo,Low income,Sub-Saharan Africa,66.133,66.133,1.0,income_group_multiplier,100.0,51.6,300,neutral
+TON,Tonga,Upper middle income,East Asia & Pacific,58.556,58.556,1.0,income_group_multiplier,100.0,40.8,300,neutral
+TUN,Tunisia,Lower middle income,"Middle East, North Africa, Afghanistan & Pakistan",66.511,66.511,1.0,income_group_multiplier,100.0,52.2,300,neutral
+TUR,Türkiye,Upper middle income,Europe & Central Asia,70.178,70.178,1.0,income_group_multiplier,100.0,57.4,300,neutral
+TKM,Turkmenistan,Upper middle income,Europe & Central Asia,52.544,52.544,1.0,income_group_multiplier,100.0,32.2,300,neutral
+TCA,Turks and Caicos Islands,High income,Latin America & Caribbean,40.944,40.944,1.0,income_group_multiplier,100.0,15.6,300,neutral
+TUV,Tuvalu,Upper middle income,East Asia & Pacific,44.044,44.044,1.0,income_group_multiplier,100.0,20.1,300,neutral
+UGA,Uganda,Low income,Sub-Saharan Africa,67.644,67.644,1.0,income_group_multiplier,100.0,53.8,300,neutral
+UKR,Ukraine,Upper middle income,Europe & Central Asia,69.2,69.2,1.0,income_group_multiplier,100.0,56.0,300,neutral
+GBR,United Kingdom,High income,Europe & Central Asia,67.356,67.356,1.0,income_group_multiplier,100.0,53.4,300,neutral
+USA,United States,High income,North America,67.967,67.967,1.0,income_group_multiplier,100.0,54.2,300,neutral
+URY,Uruguay,High income,Latin America & Caribbean,69.144,69.144,1.0,income_group_multiplier,100.0,55.9,300,neutral
+UZB,Uzbekistan,Lower middle income,Europe & Central Asia,64.111,64.111,1.0,income_group_multiplier,100.0,48.7,300,neutral
+VUT,Vanuatu,Lower middle income,East Asia & Pacific,59.211,59.211,1.0,income_group_multiplier,100.0,41.7,300,neutral
+VEN,"Venezuela, República Bolivariana de",,Latin America & Caribbean,60.578,60.578,1.0,income_group_multiplier,100.0,43.7,300,neutral
+VNM,Viet Nam,Lower middle income,East Asia & Pacific,66.333,66.333,1.0,income_group_multiplier,100.0,51.9,300,neutral
+VIR,Virgin Islands (US),High income,Latin America & Caribbean,41.167,41.167,1.0,income_group_multiplier,100.0,16.0,300,neutral
+PSE,West Bank and Gaza,Lower middle income,"Middle East, North Africa, Afghanistan & Pakistan",56.811,56.811,1.0,income_group_multiplier,100.0,38.3,300,neutral
+YEM,"Yemen, Republic of",Low income,"Middle East, North Africa, Afghanistan & Pakistan",59.822,59.822,1.0,income_group_multiplier,100.0,42.6,300,neutral
+ZMB,Zambia,Lower middle income,Sub-Saharan Africa,67.678,67.678,1.0,income_group_multiplier,100.0,53.8,300,neutral
+ZWE,Zimbabwe,Lower middle income,Sub-Saharan Africa,64.3,64.3,1.0,income_group_multiplier,100.0,49.0,300,neutral
